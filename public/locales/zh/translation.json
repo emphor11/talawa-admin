@@ -849,7 +849,8 @@
     "fileUploadError": "文件上传错误",
     "selectCategory": "请选择议程类别",
     "tooManyAttachments": "最多允许10个附件",
-    "invalidFileType": "文件类型无效。仅允许图片和视频"
+    "invalidFileType": "文件类型无效。仅允许图片和视频",
+    "loading": "加载中..."
   },
   "eventListCard": {
     "dogsCare": "狗狗护理",

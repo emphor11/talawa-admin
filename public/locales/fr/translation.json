@@ -849,7 +849,8 @@
     "fileUploadError": "Erreur lors du téléchargement du fichier",
     "selectCategory": "Veuillez sélectionner une catégorie de l'ordre du jour",
     "tooManyAttachments": "Maximum 10 pièces jointes autorisées",
-    "invalidFileType": "Type de fichier invalide. Seules les images et vidéos sont autorisées."
+    "invalidFileType": "Type de fichier invalide. Seules les images et vidéos sont autorisées.",
+    "loading": "Chargement..."
   },
   "eventListCard": {
     "dogsCare": "Soins des Chiens",

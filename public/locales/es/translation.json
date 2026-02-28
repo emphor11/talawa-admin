@@ -844,7 +844,8 @@
     "fileUploadError": "Error al subir archivo",
     "selectCategory": "Por favor seleccione una categoría del orden del día",
     "tooManyAttachments": "Máximo 10 adjuntos permitidos",
-    "invalidFileType": "Tipo de archivo no válido. Solo se permiten imágenes y videos"
+    "invalidFileType": "Tipo de archivo no válido. Solo se permiten imágenes y videos",
+    "loading": "Cargando..."
   },
   "eventListCard": {
     "dogsCare": "Cuidado de Perros",

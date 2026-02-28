@@ -849,7 +849,8 @@
     "fileUploadError": "Error uploading file",
     "selectCategory": "Please select an agenda category",
     "tooManyAttachments": "Maximum 10 attachments allowed",
-    "invalidFileType": "Invalid file type. Only images and videos are allowed"
+    "invalidFileType": "Invalid file type. Only images and videos are allowed",
+    "loading": "Loading..."
   },
   "eventListCard": {
     "dogsCare": "Dogs Care",
